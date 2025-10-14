@@ -1,0 +1,5 @@
+2025-10-14T11:39:45.708+02:00  INFO 39274 --- [lektion-3] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-14T11:39:47.718+02:00  INFO 39274 --- [lektion-3] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-10-14T11:39:47.721+02:00  INFO 39274 --- [lektion-3] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-10-14T11:39:47.722+02:00  INFO 39274 --- [lektion-3] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-10-14T11:39:47.722+02:00  INFO 39274 --- [lektion-3] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
